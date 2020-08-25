@@ -1,0 +1,126 @@
+/* 
+grau_d  = #949494
+g_med1  = #B4B4B4
+g_med2  = #C3C3C3
+g_med3  = #A9A9A9
+g_hell1 = #D9DDE3
+g_hell2 = #E1E1E1
+g_hell3 = #D4D4D4
+red    = #7B1B1B
+*/
+
+body {
+	margin:  0;
+	padding: 0;
+	background-color: #FFFFFF;
+	overflow: auto;
+	color: silver;
+}
+
+/*
+positionierung
+*/
+
+#content_big {
+	margin: 20px;
+}
+/*
+formatierung
+*/
+
+a:visited, a:link		{
+	font-size:11px;
+	line-height: 16px;
+	color:#949494;
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	text-decoration:none;
+	margin:  10px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+a:hover 		{color:#7B1B1B;}
+	
+a.nav:visited, a.nav:link		{
+	font-size:11px;
+	color:#7B1B1B;
+	line-height: 16px;
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	text-decoration:none;
+	margin:  10px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+a.nav:hover 		{color:#7B1B1B;}
+			
+a.del:visited, a.del:link 	{
+	font-size: 11px;
+	color:#EFECEC; 
+	line-height: 16px;
+	font-family:  tahoma, arial, helvetica, sans serif, geneva;
+	text-decoration: none;
+	margin:  10px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+a.del:hover 		{color:#FFFFFF;}
+			
+input, textarea, select {
+	line-height: 16px;
+	background-color:#FFFFFF;
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	font-size:11px;
+	border: solid 1px #C3C3C3;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+input.button {
+	background-color:#cccccc;
+	border: solid 1px #7B1B1B;
+	width: 120px;
+}
+
+select {width:150px;}
+
+h2 {
+	font-size:13px;
+	color:#949494;
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	font-weight:bold;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+h1 {
+	font-size:2px;
+	color:#FDFDFD;
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	font-weight:normal;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+h3 {
+	font-size:11px;
+	color:#7B1B1B;
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	font-weight:bold;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+p, table, td, tr, .text, .textweiss, .down, .img_verw, .black, .feld  {
+	font-size: 11px;
+	line-height: 16px;
+	color:#7B1B1B; 
+	font-family: tahoma, arial, helvetica, sans serif, geneva;
+	font-weight:normal;
+	margin:  10px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}	
+
+#nav p {
+	margin: 0px 0px 0px 0px;
+	border: solid 1px #000;
+}
+
+.disable {
+	color: #cccccc;
+}

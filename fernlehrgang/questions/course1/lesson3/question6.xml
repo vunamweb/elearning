@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft E 1</title>
+<img>door.jpg</img>
+<color>#B97F53</color>
+    <questions point="2">
+       <question>
+         <title>Wie stufen Sie grundsätzlich Schuhwerk im Hinblick auf die Gesundheit ein?</title>
+         <choose value="no">Schuhe egal welcher Art, sind grundsätzlich immer gesund!</choose>
+         <choose value="no">Eigentlich ist nur barfuß gehen gesund. Schuhe aller Art sind ungesund! </choose>
+         <choose value="yes">Schuhe leisten Ihren Beitrag zur Gesundheit, wenn sie differenziert und individuell ausgewählt wurden.</choose>
+         <choose value="no"> Schuhe, als auch barfuß - beides macht zum richtigen Zeitpunkt und am richtigen Ort Sinn.</choose>
+       </question>
+    </questions>
+</test>

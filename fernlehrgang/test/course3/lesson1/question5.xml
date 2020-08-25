@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft 5</title>
+<name>Fernlehrgang Chung Shi_2015 Heft_5.pdf</name>
+<color>#718631</color>
+    <questions point="6" checkall="true">
+
+		<question NumberChoose="2" point="2">
+			<title>Welche Aussagen treffen auf den akuten Schmerz zu?</title>
+			<choose value="no">Er hält länger als 6 Monate an</choose>
+				<choose value="yes">Er ist relativ gut lokalisierbar</choose>
+			<choose value="no">Ist eher diffus und schwer lokalisierbar</choose>
+			<choose value="yes">Ist nur von kurzer Dauer und verschwindet wieder</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Die Wirbelsäule verfügt über eine Doppel-S-Form. Wie heißen die beiden Schwungrichtungen im Fachjargon?</title>
+			<choose value="no">Extension</choose>
+			<choose value="yes">Lordose</choose>
+			<choose value="no">Flexion</choose>
+			<choose value="yes">Kyphose</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche Aufgaben haben Faszien im menschlichen Körper?</title>
+			<choose value="yes">Kommunikation &amp; Reizweiterleitung</choose>
+			<choose value="no">Bluttransport</choose>
+			<choose value="no">Filtration des Urins</choose>
+			<choose value="yes">Aufnahme, Übertragung Speicherung und Freigabe von Kräften</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche grobe Aufgabenunterteilung gibt es bei der Muskulatur?</title>
+			<choose value="no">Schlafmuskeln</choose>
+			<choose value="yes">Lokale Stabilisatoren</choose>
+			<choose value="yes">Globale Beweger</choose>
+			<choose value="no">Arbeitsmuskeln</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche Funktion hat die Wirbelsäule?</title>
+			<choose value="no">Sportfunktion</choose>
+			<choose value="yes">Stütz- und Bewegungsfunktion</choose>
+			<choose value="yes">Puffer- und Schutzfunktion</choose>
+			<choose value="no">Schlaffunktion</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welches Ziel hat die Rückenschmerzprävention?</title>
+			<choose value="no">Pauschale Erhöhung der Beweglichkeit</choose>
+			<choose value="no">Pauschale Kräftigung aller Muskeln</choose>
+			<choose value="yes">Erhalt oder Wiederherstellung der Balance von Belastung und Belastbarkeit</choose>
+			<choose value="no">Unterstützung der Frühverrentung und Arbeitsunfähigkeit </choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welcher Faktor ist ein zentraler Risikofaktor für Rückenschmerzen?</title>
+			<choose value="no">Moderate sportliche Aktivitäten</choose>
+			<choose value="no">Keine Beweglichkeitseinschränkungen</choose>
+			<choose value="yes">Muskuläre Störungen (z.B. Dysbalancen, Verspannungen, etc.)</choose>
+			<choose value="no">Eine positive Lebenseinstellung</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Was sind spezifische Rückenschmerzen?</title>
+			<choose value="no">Es ist keine strukturelle Schädigung innerhalb der Diagnostik sichtbar</choose>
+			<choose value="no">Stechende Schmerzen im Bereich des Rückens</choose>
+			<choose value="yes">Es ist eine sichtbare Schädigung von Strukturen an der Wirbelsäule nachweisbar, die für die Schmerzen gesichert verantwortlich sind</choose>
+			<choose value="no">Schmerzepisoden, die über 6 Monate oder länger verlaufen</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche Vorteile bieten AUBIORIG-Modelle bei nicht-akuten Rückenschmerz?</title>
+			<choose value="yes">Wirbelsäulenaufrichtung, Aktivierung der lokalen Stabilisatoren, Stoßdämpfung beim Fußaufsatz</choose>
+			<choose value="no">Kräftigung der Nackenmuskulatur</choose>
+			<choose value="no">Verbesserung der Beweglichkeit der Wirbelsäule</choose>
+			<choose value="no">Entlastung der Wirbelsäule beim Stehen</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Was ist das Hauptziel bei der Behandlung unspezifischer Rückenschmerzen?</title>
+			<choose	 value="no">Eine Wirbelsäulenoperation</choose>
+			<choose value="no">Dauerhafte Ruhigstellung der gestressten Strukturen</choose>
+			<choose value="no">Möglichst viel Geld mit dem Patienten zu verdienen</choose>
+			<choose value="yes"> Beibehaltung bzw. baldmöglichste Wiederaufnahme alltäglicher Aktivitäten und Vermeidung von Bettruhe</choose>
+		</question>
+
+    </questions>
+</test>

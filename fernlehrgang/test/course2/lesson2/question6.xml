@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft E 1</title>
+<name>name of pdf</name>
+<color>#B97F53</color>
+    <questions point="6" checkall="true">
+       <question NumberChoose="2" point="2">
+         <title>Wie stufen Sie grundsätzlich Schuhwerk im Hinblick auf die Gesundheit ein?</title>
+         <choose value="yes">Schuhe egal welcher Art, sind grundsätzlich immer gesund!</choose>
+         <choose value="yes">Eigentlich ist nur barfuß gehen gesund. Schuhe aller Art sind ungesund! </choose>
+         <choose value="no">Schuhe leisten Ihren Beitrag zur Gesundheit, wenn sie differenziert und individuell ausgewählt wurden.</choose>
+         <choose value="no"> Schuhe, als auch barfuß - beides macht zum richtigen Zeitpunkt und am richtigen Ort Sinn.</choose>
+       </question>
+       <question NumberChoose="2" point="3">
+         <title>Welche Ursachen zeichnen sich für die hohe Zahl an Fuß- und Rückenbeschwerden unter anderem verantwortlich?</title>
+         <choose value="yes">Das Leben auf harten, glatten Böden</choose>
+         <choose value="yes">Viel zu lange Tragezeiten von falschem, oft auch unpassendem Schuhwerk</choose>
+         <choose value="no">Das zu seltene Tragen von Schuhen</choose>
+         <choose value="no">Eine optimal ausgeprägte und gut koordinierte Fußmuskulatur </choose>
+       </question>
+       <question NumberChoose="2" point="1">
+         <title>Welche Empfehlungen kann man jedem Menschen ohne akute Fußprobleme mit auf den Weg geben?</title>
+         <choose value="yes">Viel barfuß auf unebenen Untergründen gehen </choose>
+         <choose value="yes">Schuhe immer so viel wie möglich tragen </choose>
+         <choose value="no">Möglichst nur ein einziges Paar Schuhe nutzen</choose>
+         <choose value="no">Wenn Schuhe, dann optimal passend und einsatzzweckorientierten Eigenschaften </choose>
+       </question>
+       <question NumberChoose="2" point="1">
+         <title>Welche Art von Schuhen sind für den Fuß und die gesamte Körperstatik aus gesundheitlicher Sicht nur für zeitlich stark begrenzte Tragezeit zu empfehlen?</title>
+         <choose value="yes">Schuhe mit guter individueller Passform</choose>
+         <choose value="yes">Schuhe mit extrem hohen Absatz (High Heels)</choose>
+         <choose value="no">Schuhe, die eine natürliche Bewegung des Fußes zulassen bzw. unterstützen</choose>
+         <choose value="no">Zu kurze, zu schmale oder zu wenig Innenraumhöhe bietende Schuhe</choose>
+       </question>
+       <question NumberChoose="2" point="1">
+         <title>5. Über welche Kompetenzen muss ein medizinischer Fachverkäufer im Gesundheitsschuhfachhandel verfügen?</title>
+         <choose value="yes">Der Verkäufer muss nur den Lagerbestand im Kopf haben und wissen welche Schuhe schnell rausverkauft werden müssen</choose>
+         <choose value="yes">Grundkenntnisse zur Anatomie, Biomechanik und Krankheitsbilder des Fußes</choose>
+         <choose value="no">Einfühlungsvermögen und Verständnis für den Kunden und seine Beschwerden und Probleme am Bewegungsapparat</choose>
+         <choose value="no">Die richtige Schuhgröße zu empfehlen reicht völlig aus </choose>
+       </question>
+       <question NumberChoose="1" point="1">
+         <title>Welche Bedeutung kommt dem medizinischen Fachverkäufer im Gesundheitsschuhfachhandel zu?</title>
+         <choose value="yes">Er ist nur der, der die Schuhe aus dem Lager holt und Regale auffüllt</choose>
+         <choose value="no">Er ist ein kompetenter Fachberater, dem der Patient/Kunde vertraut und Produkte mit gutem Gewissen abkaufen kann</choose>
+         <choose value="no">Er muss viel Umsatz machen, das ist das Wichtigste</choose>
+         <choose value="no">Schuhe sind nur sein Randgeschäft. Er muss vor allem wissen, wie er Rezepte aller Art abzurechnen hat.</choose>
+       </question>
+       <question NumberChoose="1" point="1">
+         <title>Welche Rolle spielt Bewegung für die Gesundheit und Lebensqualität?</title>
+         <choose value="yes">Bewegung ist nur dann gesundheitswirksam, wenn täglich mehrere Stunde intensiv Sport gemacht wird</choose>
+         <choose value="no">Bewegung jeglicher Art sollte eher vermieden werden, da das Risiko einer Überlastung viel zu hoch ist</choose>
+         <choose value="no">Der Gesundheitswert von Bewegung wird völlig überschätzt</choose>
+         <choose value="no">Regelmäßige, individuell gesteuerte Belastungsreize leisten einen extrem wertvollen Beitrag zur Gesundheit eines Menschen.</choose>
+       </question>
+       <question NumberChoose="1" point="1">
+         <title>Wie hoch sollte die Intensität der Belastung laut Weltgesundheitsorganisation (WHO) ausfallen, vorausgesetzt es spricht krankheitsbedingt nicht dagegen?</title>
+         <choose value="yes">Man sollte ins Schwitzen kommen und/oder etwas außer Atem sein</choose>
+         <choose value="no">Man sollte sich möglichst bis zur Erschöpfung ausbelasten</choose>
+         <choose value="no">Sobald man bereits einen Hauch von Anstrengung verspürt, sollte man sofort aufhören</choose>
+         <choose value="no">Man sollte bei jeder Bewegungseinheit den Maximalpuls erreichen. </choose>
+       </question>
+       <question NumberChoose="1" point="1">
+         <title>9. Wie viele Stunden moderate Bewegung empfiehlt die Weltgesundheitsorganisation (WHO) mindestens pro Woche? </title>
+         <choose value="yes">1,5 Stunden </choose>
+         <choose value="no">2,5 Stunden </choose>
+         <choose value="no">5 Stunden </choose>
+         <choose value="no">7 Stunden</choose>
+       </question>
+       <question NumberChoose="1" point="1">
+         <title>10. Worin besteht das Potential von Gesundheitsschuhen?</title>
+         <choose value="yes">Sie allein können kranke Menschen wieder gesund machen</choose>
+         <choose value="no">Trägt man ausschließlich Gesundheitsschuhe, wird man nie krank</choose>
+         <choose value="no">Sie aktivieren den Bewegungsapparat bzw. ermöglichen Menschen mit Beschwerden wieder in Bewegung zu kommen</choose>
+         <choose value="no">Sie bieten dem Verkäufer das Potential reich zu werden </choose>
+       </question>
+    </questions>
+</test>

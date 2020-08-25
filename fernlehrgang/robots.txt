@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /nogo/
+Disallow: /bricks/
+Disallow: /page/
+Disallow: /morpheus/
+Disallow: /design/
+Disallow: /newsletter/
+Disallow: /angebote/
+Sitemap: http://www.konzept-fuenf.de/sitemap.xml

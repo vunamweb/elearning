@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+  <course name="course1" color="#B97F53">
+    <lesson number-lesson="2" name="lesson1" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson wait-time="6183" number-lesson="6" name="lesson2" data-folder="questions/course1/lesson2" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson3" data-folder="questions/course1/lesson3" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+  </course>
+  <course name="course2" color="#B97F53">
+    <lesson number-lesson="6" name="lesson1" data-folder="questions/course1/lesson1" onepage="true" point="6">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson2" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson3" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+  </course>
+  <course name="course3" color="#B97F53">
+    <lesson number-lesson="6" name="lesson1" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson2" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson3" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+  </course>
+  <course name="course4" color="#B97F53">
+    <lesson number-lesson="6" name="lesson1" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson2" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson3" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+  </course>
+  <course name="course5" color="#B97F53">
+    <lesson number-lesson="6" name="lesson1" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson2" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+    <lesson number-lesson="6" name="lesson3" data-folder="questions/course1/lesson1" onepage="false" pass-percent="90">
+     <videos>
+       <video>video1.mp4</video>
+       <video>video2.mp4</video>
+     </videos>
+     <pdfs>
+       <pdf>test.pdf</pdf>
+       <pdf>test.pdf</pdf>
+     </pdfs>
+    </lesson>
+  </course>
+</test>

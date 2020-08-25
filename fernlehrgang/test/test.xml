@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<course name="course1">
+  <lesson name="lesson1" data="course1-lesson1" point="6">
+  <lesson name="lesson2" data="course1-lesson2" point="6">
+  <lesson name="lesson3" data="course1-lesson3" point="6">
+</course>
+<course name="course2">
+  <lesson name="lesson1" data="course2-lesson1" point="6">
+  <lesson name="lesson2" data="course2-lesson2" point="6">
+  <lesson name="lesson3" data="course2-lesson3" point="6">
+</course>
+<course name="course3">
+  <lesson name="lesson1" data="course3-lesson1" point="6">
+  <lesson name="lesson2" data="course3-lesson2" point="6">
+  <lesson name="lesson3" data="course3-lesson3" point="6">
+</course>
+<course name="course4">
+  <lesson name="lesson1" data="course4-lesson1" point="6">
+  <lesson name="lesson2" data="course4-lesson2" point="6">
+  <lesson name="lesson3" data="course4-lesson3" point="6">
+</course>
+<course name="course5">
+  <lesson name="lesson1" data="course5-lesson1" point="6">
+  <lesson name="lesson2" data="course5-lesson2" point="6">
+  <lesson name="lesson3" data="course5-lesson3" point="6">
+</course>
+</test>

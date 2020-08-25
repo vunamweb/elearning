@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft 3</title>
+<name>Fernlehrgang Chung Shi_2015 Heft_3.pdf</name>
+<color>#47A5C7</color>
+    <questions point="6" checkall="true">
+		<question NumberChoose="2" point="2">
+			<title>Welche Aspekte sollten beim kindlichen Fuß nicht vergessen werden? </title>
+			<choose value="yes">Der kindliche Fuß ist ein wichtiges Organ zur Selbstwahrnehmung</choose>
+			<choose value="no">Der Fuß entspricht schon beim Säugling dem eines Erwachsenen</choose>
+			<choose value="no">Kinder sollten bereits ab dem 1. Lebensjahr möglichst immer Schuhe tragen</choose>
+			<choose value="yes">Eine gesunde Fußentwicklung beinhaltet möglichst viel barfußgehen  </choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Welche in diesem Heft angesprochenen Ursachen liegen Fußbeschwerden häufig zu Grunde? </title>
+			<choose value="no">Optimale passende Schuhe</choose>
+			<choose value="yes">Unzweckmäßiges und unpassendes Schuhwerk</choose>
+			<choose value="no">Das zu seltene Tragen von Schuhen</choose>
+			<choose value="yes">Ein schwacher Halteapparat des Fußes </choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Welche Parameter muss ein Schuh mindestens für eine gute Passung erfüllen? </title>
+			<choose value="yes">Passende Schuhlänge, Fersenkappe und passender Vorfußbox-Winkel</choose>
+			<choose value="yes">Passende Schuhbreite und - höhe</choose>
+			<choose value="no">Die Schuhlänge reicht völlig aus</choose>
+			<choose value="no">Das Obermaterial ist der entscheidendste Parameter - der Rest ist egal</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Welche Chung Shi-Modelle würden Sie einem Kunden mit Hammer- &amp; Krallenzehen empfehlen? </title>
+			<choose value="no">Keine Schuhe. Er soll nur barfuß gehen</choose>
+			<choose value="yes">DUFLEX CLOG KLASSISCH, SENSI &amp; BIO</choose>
+			<choose value="no">DUFLEX ZORI &amp; DUXILETTE</choose>
+			<choose value="yes">DUFLEX FREE &amp; FREE TRAINER (sofern keine überstarke Pronation und/oder X-Beine bestehen)</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Welche Chung Shi-Modelle würden Sie einem Kunden bei Spreizfußbeschwerden empfehlen?</title>
+			<choose value="yes">DUFLEX CLOGS in allen Ausführungen </choose>
+			<choose value="yes">DUFLEX ORTHO, ORTHO, FREE, FREE TRAINER &amp; AUBIORIG</choose>
+			<choose value="no">Alle Modelle, die Chung Shi anbietet, allerdings nur in der Farbe Rot</choose>
+			<choose value="no">Kein einziges Modell ist für Spreizfüße empfehlenswert</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Was ist bei der Schuhempfehlung bei einem diagnostizierten Plattfuß zu beachten?</title>
+			<choose value="no">Nichts</choose>
+			<choose value="yes">DUFLEX FREE TRAINER sind kontraindiziert, da sie Krankheitsbild noch zusätzlich verstärken können.</choose>
+			<choose value="no">Immer drei Schuhgrößen kleiner anbieten</choose>
+			<choose value="no">Die Schuhe müssen einen extrem schmalen Leisten haben</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Was ist ein Fersensporn?</title>
+			<choose value="no">Das ist ein Gerät, das man zum Reiten von Pferden benötigt</choose>
+			<choose value="no">Das ist ein besonders hervorstehender Bereich an der Einlegesohle eines Schuhes</choose>
+			<choose value="yes">Eine Überlastungsreaktion am Fersenbein an der Fußsohle, die sich in einer knöchernen Ausziehung schmerzhaft äußert</choose>
+			<choose value="no">Ein Bereich des Fußes, der anspornt schneller zu laufen, wenn man ihn stimuliert</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Worauf sollte bei einem Hallux valgus bezüglich des Schuhwerks geachtet werden?</title>
+			<choose value="no">Weite Fersenkappe; enge Vorfußbox, spitzer Vorfußwinkel</choose>
+			<choose value="yes">Weiches, nicht reibendes Obermaterial; Breite der Vorfußbox; Winkel der Vorfußbox; geringe Sprengung</choose>
+			<choose value="no">Möglichst schmal geschnittener Schuh; hartes Obermaterial</choose>
+			<choose value="no">Hoher Absatz für viel Sprengung</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Was sorgt bei einem Patienten mit Hallux rigidus für Schmerzen?</title>
+			<choose value="no">Ein harter, ungedämpfter Fersenaufsatz beim Gehen</choose>
+			<choose value="no">Stehen auf dem Fußaußenrand</choose>
+			<choose value="no">Das Abrollen des Fußes beim Tragen von Schuhe mit sehr steifer Sohle</choose>
+			<choose value="yes">Ein Überstrecken im arthrotisch veränderten Zehengrundgelenk</choose>
+		</question>
+		<question NumberChoose="2" point="2">
+			<title>Worauf sollte bei der Schuhversorgung von Diabetes-Patienten beachtet werden?</title>
+			<choose value="no">Diabetiker sollten keine Schuhe tragen</choose>
+			<choose value="no">Diabetiker können problemlos jegliches Schuhwerk tragen</choose>
+			<choose value="yes">Wenn der Fuß des Patienten sichtbare Schädigungen aufweist (z.B. offene Stellen), sollte mit dem behandelnden Arzt Rücksprache gehalten werden.</choose>
+			<choose value="no">Weisen die Füße bereits Ulzerationen auf, sollten nur noch DUFLEX CLOGS getragen werden</choose>
+		</question>
+    </questions>
+</test>

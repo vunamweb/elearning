@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft 4</title>
+<name>Fernlehrgang Chung Shi_2015 Heft_4.pdf</name>
+<color>#0F3D7A</color>
+    <questions point="6" checkall="true">
+
+		<question NumberChoose="2" point="2">
+			<title>Welche zwei Strukturen bilden beim Hüftgelenk die knöchernen Gelenkpartner?</title>
+			<choose value="no">Der große Rollhügel (trochanter major) des Oberschenkelknochens</choose>
+			<choose value="yes">Hüftkopf als Teil des Oberschenkelknochens</choose>
+			<choose value="yes">Das Darmbein, das die Gelenkpfanne bildet</choose>
+			<choose value="no">Das Kreuzbein bildet die Gelenkpfanne</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche sind primäre Ursachen für Hüftgelenksprobleme</title>
+			<choose value="no">Untergewicht</choose>
+			<choose value="yes">Unzureichende Stabilisation durch Muskeln, Bänder und Faszien</choose>
+			<choose value="no">Falsches Schuhwerk</choose>
+			<choose value="yes">Angeborene Hüftdefekte </choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Aus welchen Gelenken setzt sich das Kniegelenk zusammen?</title>
+			<choose value="no">Fibulotalargelenk</choose>
+			<choose value="no">Fibulotibialgelenk</choose>
+			<choose value="yes">Patellofemoralgelenk</choose>
+			<choose value="yes">Tibiofemoralgelenk</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Wie ist das Kniegelenk primär stabilisiert?</title>
+			<choose value="no">Durch die knöchernen Strukturen</choose>
+			<choose value="yes">Durch Muskulatur</choose>
+			<choose value="yes">Durch Bänder, Faszien, Sehnen und Menisken</choose>
+			<choose value="no">Durch Fettgewebe</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche primären Ursachen für Kniegelenksprobleme gibt es?</title>
+			<choose value="yes">Insuffizienz des aktiven und passiven Halte- und Bewegungsapparates</choose>
+			<choose value="yes">Angeborene Beinachsenfehlstellungen</choose>
+			<choose value="no">Eine präzise Ansteuerung der kniestabilisierenden Muskulatur</choose>
+			<choose value="no">Ein stabiler Bandapparat</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Warum sollte bei Hüft- und /oder Kniegelenksbeschwerden unbedingt auf eine differenzierte Schuhauswahl geachtet werden?</title>
+			<choose value="no">Ist nicht nötig, weil Schuhe hier keine Rolle spielen</choose>
+			<choose value="no">Weil hässliche Schuhe zu Schmerzen führen</choose>
+			<choose value="yes">Weil Schuhe einen Einfluss auf die aufsteigenden Gelenkketten haben</choose>
+			<choose value="no">Weil die Schuhe sonst früher verschleißen</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welchen Schuh können Sie ganz besonders  für (neuro)muskuläre Defizite der Knie- und Hüftgelenksstabilisatoren empfehlen?</title>
+			<choose value="no">DUFLEX FREE</choose>
+			<choose value="no">DUFLEX FREE TRAINER</choose>
+			<choose value="yes">AUBIORIG</choose>
+			<choose value="no">SENSOMO</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche Schuheigenschaften sind für Arthrose-Patienten hilfreich?</title>
+			<choose value="yes">Spürbare Stoßdämpfung, Hilfe zur aktiven Beinachsenstabilisierung</choose>
+			<choose value="no">Hartes Obermaterial</choose>
+			<choose value="no">Harte Sohle</choose>
+			<choose value="no">Maximale Stützfunktion in alle Richtungen</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Was sollte bei der Empfehlung von DUFLEX FREE TRAINER bei Arthrose-Patienten berücksichtigt werden?</title>
+			<choose value="no">Der Patient muss X-Beine haben</choose>
+			<choose value="no">Der Schuh ist nur für männliche Patienten geeignet</choose>
+			<choose value="no">Es ist nichts zu berücksichtigen</choose>
+			<choose value="yes">Der Patient sollte eher neutrale oder O-Beinachsen haben</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Inwiefern können AUBIORIG-Schuhe bei Patienten mit Knie- oder Hüftprothesen unter therapeutischer Kontrolle unterstützen?</title>
+			<choose value="no">Sie können nicht unterstützen</choose>
+			<choose value="yes">Als Trainingsgerät zur Verbesserung der Gelenkstabilisation</choose>
+			<choose value="no">Zur Lockerung der Prothese</choose>
+			<choose value="no">Zur Reduktion der Beweglichkeit</choose>
+		</question>
+
+    </questions>
+</test>

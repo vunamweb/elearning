@@ -1,0 +1,18 @@
+@font-face{
+    font-family:"Univers";
+    src: url("http://pixeldusche.com/morpheus/morpheus/fonts/Univers.otf") format("truetype")
+    }
+    @font-face{
+    font-family:"Univers-LightUltraCondensed";
+    src: url("http://pixeldusche.com/morpheus/morpheus/fonts/Univers-LightUltraCondensed.otf") format("truetype")
+    }
+    @font-face{
+    font-family:"Univers-BlackExt";
+    src: url("http://pixeldusche.com/morpheus/morpheus/fonts/Univers-BlackExt.otf") format("truetype")
+    }
+    @font-face{
+    font-family:"ZapfDingbatsITC";
+    src: url("http://pixeldusche.com/morpheus/morpheus/fonts/Zapf-Dingbats-Itc-L-OT_49819.ttf") format("truetype")
+    }
+    
+ 

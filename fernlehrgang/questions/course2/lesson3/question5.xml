@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft E 5</title>
+<name>Fernlehrgang Chung Shi_2015 Heft_1.pdf</name>
+<color>#B97F53</color>
+    <questions point="6" checkall="true">
+       <question NumberChoose="2" point="2">
+         <title>Wie stufen Sie grundsätzlich Schuhwerk im Hinblick auf die Gesundheit ein?</title>
+         <choose value="no">Schuhe egal welcher Art, sind grundsätzlich immer gesund!</choose>
+         <choose value="no">Eigentlich ist nur barfuß gehen gesund. Schuhe aller Art sind ungesund! </choose>
+         <choose value="yes">Schuhe leisten Ihren Beitrag zur Gesundheit, wenn sie differenziert und individuell ausgewählt wurden.</choose>
+         <choose value="yes"> Schuhe, als auch barfuß - beides macht zum richtigen Zeitpunkt und am richtigen Ort Sinn.</choose>
+       </question>
+    </questions>
+</test>

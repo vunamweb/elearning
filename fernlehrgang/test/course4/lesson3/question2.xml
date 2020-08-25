@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+<title>Testfragen zu Heft 2</title>
+<name>Fernlehrgang Chung Shi_2015 Heft_2.pdf</name>
+<color>#5F5D92</color>
+    <questions point="6" checkall="true">
+		<question NumberChoose="2" point="2">
+			<title>Was bedeutet der Markenname "CHUNG SHI" wörtlich? </title>
+			<choose value="no">Er hat keine Bedeutung. Er ist ein Fantasiename</choose>
+			<choose value="no">Er kommt aus dem Japanischen und bedeutet "Muskelwachstum"</choose>
+			<choose value="yes">Er kommt aus dem Kantonesischen und bedeutet "sich entwickeln, persönlich wachsen"</choose>
+			<choose value="no">Es ist bayrisch und bedeutet "Schöne Ski"</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Weshalb bietet Chung Shi unterschiedliche Schuhe in seinem Sortiment an? </title>
+			<choose value="yes">Um möglichst vielen Menschen das passende Schuhwerk zu bieten</choose>
+			<choose value="yes">Weil nicht jeder Schuh für jeden Einsatzzweck geeignet ist</choose>
+			<choose value="no">Damit der Katalog voll ist</choose>
+			<choose value="no">Weil der Aufwand geringer und billiger ist, ein großes Sortiment zu verwalten</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Was ist das zentrale Geheimnis der DUFLEX-Clogs? </title>
+			<choose value="no">Der optional nutzbare Fersenriemen</choose>
+			<choose value="yes">Das patentierte EVA-Material - das sog. DUFLEX</choose>
+			<choose value="no">Die Belüftungslöcher</choose>
+			<choose value="no">Das Sohlendesign</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Was sind die Eigenschaften und Vorteile der Thermoaktivität des DUFLEX-Materials? </title>
+			<choose value="yes">Die Körpertemperatur sorgt dafür, dass sich der Schuh dem Fuß anpasst und ein individuelles Fußbett ausbildet</choose>
+			<choose value="no">Dass man damit ökologisch den Holzofen anheizen kann</choose>
+			<choose value="yes">DUFLEX sorgt für eine gleichmäßige Druckverteilung und verhindert Druckspitzen</choose>
+			<choose value="no">Dass sie bei längerer Sonneneinstrahlung von alleine zu brennen beginnen</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Welche weiteren Vorteile hat das DUFLEX-Material?</title>
+			<choose value="no">Es sorgt für einen maximal harten Fußaufsatz damit der Körper Feedback bekommt.</choose>
+			<choose value="no">Es ist wunderbar rutschig</choose>
+			<choose value="yes">Es ist giftstoffrei und kann daher bedenkenlos barfuß getragen werden</choose>
+			<choose value="yes">Der Fuß kann sich optimal beim Gehen entfalten und das natürliche Gangbild wird durch das geringe Gewicht nur wenig beeinflusst</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Über welche Besonderheiten verfügt speziell die Modell-Serie ORTHO &amp; ORTHO-CLOG? </title>
+			<choose value="no">Es ist aus DUFLEX-Material gefertigt</choose>
+			<choose value="yes">Es ist als Clog als auch als geschlossener Schuh erhältlich</choose>
+			<choose value="yes">Es verfügt über eine auswechselbare Einlage, die beispielsweise durch eine	individuell angepasste orthopädische Einlage ersetzt werden kann</choose>
+			<choose value="no">Es ist nur in der Farbe weiß verfügbar</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Über welche Besonderheiten verfügt speziell die Modell-Serie DUFLEX BIO?</title>
+			<choose value="no">Das DUFLEX BIO-Material ist im Vergleich zum klassischen DUFLEX CLOG nochmals weicher</choose>
+			<choose value="yes">Das verwendete Material besteht zu 30% aus nachwachsenden Rohstoffen </choose>
+			<choose value="no">Das Modell DUFLEX BIO ist vom Magazin ÖKOTEST zum Testsieger gekürt worden</choose>
+			<choose value="no">Es ist eine noch größere Farbauswahl als beim klassischen DUFLEX CLOG verfügbar</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Worauf sollte bei der Handhabung aller Schuh mit DUFLEX-Material geachtet werden?</title>
+			<choose value="no">Das Material kann problemlos mit aggressiven Reinigern behandelt werden</choose>
+			<choose value="yes">Die Schuhe sollten keinesfalls über einen längeren Zeitraum Temperaturen über 60°C ausgesetzt werden</choose>
+			<choose value="yes">DUFLEX-Schuhe sollten ausgewechselt werden, wenn ca. 60% des Sohlenprofiles nicht mehr sichtbar sind</choose>
+			<choose value="no">Die Schuhe können problemlos in den Geschirrspüler oder die Waschmaschine bei 60°C oder mehr gegeben werden</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Was zertifiziert die Aktion Gesunder Rücken (AGR) e.V.?</title>
+			<choose value="no">Medizinische Zentren für Wirbelsäulenchirurgie</choose>
+			<choose value="yes">Rückengerechte Alltagsprodukte zur Prävention und Therapie von Rückenschmerzen</choose>
+			<choose value="no">Lehrer für Rückenschule und Wirbelsäulengymnastik</choose>
+			<choose value="no">Autositze</choose>
+		</question>
+
+		<question NumberChoose="2" point="2">
+			<title>Worin besteht das Alleinstellungsmerkmal der AUBIORIG-Konstruktion?</title>
+			<choose value="no">In der Schnürung der Schuhe</choose>
+			<choose value="yes">Im Sohlenwinkel von 15° (Comfort Step) bzw. 20° (Balance Step)</choose>
+			<choose value="no">Im Obermaterial</choose>
+			<choose value="no">In der Schuhfarbe</choose>
+		</question>
+    </questions>
+</test>

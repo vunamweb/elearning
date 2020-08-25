@@ -1,0 +1,2 @@
+<?php  $output .= '<ul class=""></ul><ul class="stichwort1"><li class="stichwort0"><a href="http://www.pixel-dusche.de/kunden/fitnesspark/select-6-color/"><i class="fa fa-caret-right"></i> &nbsp; <b><a href="http://www.pixel-dusche.de/kunden/fitnesspark/select-6-color/">select 6 color</a></b></a></li>
+</ul>'; ?>
